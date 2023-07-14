@@ -1,13 +1,19 @@
-# GitHub Codespaces ♥️ Next.js
+# Create Markdown Editor using GitHub Copilot Chat
 
-Welcome to your shiny new Codespace running Next.js! We've got everything fired up and running for you to explore Next.js.
+## Description
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with the what you're seeing right now - where you go from here is up to you!
+This is a self-guided tutorial to help folks learn how to use GitHub Copilot Chat. In this project you will find: 
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+ * `pages/index.js` file we'll add our code using GitHub Copilot Chat
+ * `MarkdownEditor.css` file we'll specify the editor's UI
+ * a devcontainer that installs CodeTour and GitHub Copilot when the Codespace is created
+ * an instructions folder containing the guides for this exercise 
 
-To run this application:
 
-```
-npm run dev
-```
+## To complete this tutorial, you will need:
+* Access to [GitHub Copilot](https://github.com/features/copilot)
+* Access to [GitHub Copilot Chat](https://github.com/github-copilot/chat_waitlist_signup/join)
+
+## Getting started
+
+You can follow the instructions available here: [stepbystep.md](./instructions/stepbystep.md)
