@@ -6,7 +6,7 @@ This is a self-guided tutorial to help folks learn how to use GitHub Copilot Cha
 
  * `pages/index.js` file we'll add our code using GitHub Copilot Chat
  * `MarkdownEditor.css` file we'll specify the editor's UI
- * a devcontainer that installs CodeTour and GitHub Copilot when the Codespace is created
+ * a devcontainer that installs the required dependencies when the Codespace is created
  * an instructions folder containing the guides for this exercise 
 
 
